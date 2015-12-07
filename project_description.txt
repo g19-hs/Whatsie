@@ -1,0 +1,9 @@
+1. We want to add theme functionality.
+
+
+
+2. 
+   - Added new folder themes in src/
+   - Added new file theme.js in src/scripts/renderer/
+   - Added 30 lines of code in three files inside src/menus/* (10 lines each)
+   - Implemented an event listner inside setAppEventListeners() function in src/scripts/browser/menus/app.js 
